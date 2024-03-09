@@ -1,0 +1,31 @@
+
+h1 {
+    font-size: 63px;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;;
+}
+
+header p {
+    color: white;
+}
+
+h2 {
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 600;
+}
+
+nav {
+    height: 50px;
+    letter-spacing: 4px;
+    font-size: 14px;
+    padding-right: 40px;
+}
+
+.carousel-item h5 {
+    font-size: 80px;
+    color: aliceblue;
+    text-shadow: 2px 2px 2px #303030;
+}
